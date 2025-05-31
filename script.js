@@ -1,4 +1,3 @@
-//your code here
 const images = [
   "image1.jpg",
   "image2.jpg",
